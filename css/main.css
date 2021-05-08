@@ -1,0 +1,33 @@
+.container {
+    position: relative;
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+   
+}
+
+.blue {
+    background-color:blue;
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.green {
+    background-color: green;
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.paragraph {
+    display: inline-block;
+}
